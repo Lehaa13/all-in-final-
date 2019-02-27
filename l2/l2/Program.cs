@@ -17,6 +17,7 @@ namespace l2
             int b = int.Parse(Console.ReadLine());
 
 
+
             int c = a + b;
             Console.Write("A + B = {0}", a+b);
 
@@ -31,6 +32,10 @@ namespace l2
 
             Console.Write("A + B = {0}", a+b);
 
+
+
+            Console.Write("A * B = {0}", a*b);
+               
 
 
             Console.ReadKey();
